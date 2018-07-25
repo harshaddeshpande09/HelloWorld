@@ -1,2 +1,1 @@
-# HelloWorld - a classic sample project for beginner!
-Sample Project
+# HelloWorld - a classic sample project for beginner
